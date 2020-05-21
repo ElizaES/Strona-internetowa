@@ -1,4 +1,4 @@
 # Strona-internetowa
 Strona internetowa w HTML/CSS
 
-Korzystanie z podstawowych funkcji css: border, color, size i td
+Korzystanie z podstawowych funkcji CSS: border, color, size i td
