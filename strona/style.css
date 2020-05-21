@@ -1,0 +1,77 @@
+#Naglowek {
+	border-style:solid;
+	border-width: 1px;
+	border-color: black;
+	font-weight: bold;
+}
+
+#Menu {
+	color: white; 
+	background-color: dimgray;
+	border-style:solid;
+	border-width: 3px;
+	border-color: wheat;
+	height: 50px;
+}
+
+#ObszarLogowania {
+	background-color: powderBlue;
+	text-align: right;
+	border-style:solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+
+#PierwszyObszarBoczny{
+	width: 200px;
+	height: 300px;
+	float: left;
+	border-style:solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+#DrugiObszarBoczny{
+	width: 200px;
+	height: 300px;
+	float: right;
+	border-style:solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+#ObszarRoboczy {
+	background-color: light-gray;
+	height: 300px;
+	border-style:solid;
+	border-width: 1px;
+	border-color: black;
+}
+
+.option {
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 18px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0,8;
+	border-style:solid;
+	border-width: 2px;
+	border-color: yellow;
+}
+
+.option:hover {
+	background-color: #000000;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
