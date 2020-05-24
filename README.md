@@ -2,7 +2,7 @@
 
 ### Projekt został stworzony, aby pokazać możliwości css, takie jak:
 
-* **Przykładowe właściwości tekstu: **
+* **Przykładowe właściwości tekstu:**
    * font-family – krój pisma 
    * font-size – stopień (rozmiar) pisma 
    * color – kolor tekstu
